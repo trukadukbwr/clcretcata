@@ -1,0 +1,13 @@
+## Interface: 40400
+## Title: CLCRet Options
+## Notes: A LoD option menu for CLCRet
+## Author: Calcute
+## Dependencies: CLCRet
+## LoadOnDemand: 1
+## IconTexture: 626003
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+options.lua
